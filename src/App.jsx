@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+
+import { HashRouter, Routes, Route, Navigate, Link } from 'react-router-dom';
 import './App.css';
 
 import ScrollToTop from './components/ScrollToTop';
@@ -17,7 +18,7 @@ function NotFound() {
         <h1>Fant ikke siden</h1>
         <p>Siden du prøvde å åpne finnes ikke.</p>
         <p>
-          Du kan gå tilbake til <a href="/">forsiden</a>.
+          Du kan gå tilbake til <Link to="/">forsiden</Link>.
         </p>
       </div>
     </main>
@@ -25,11 +26,8 @@ function NotFound() {
 }
 
 export default function App() {
-
-  const basename = import.meta.env.BASE_URL;
-
   return (
-    <BrowserRouter basename={basename}>
+    <HashRouter>
       <ScrollToTop />
       <Navbar />
 
@@ -44,9 +42,10 @@ export default function App() {
 
         <Route path="*" element={<NotFound />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
+
 
 
 
