@@ -67,6 +67,8 @@ import Maxbo_Plakat from '../assets/Maxbo_Plakat.png';
 import Maxbo_Facebook from '../assets/Maxbo_Facebook.png';
 import Maxbo_Nygårdskrysset_logo from '../assets/Maxbo_Nygårdskrysset_logo.png';
 import Maxbo_Facebook_Harmoni from '../assets/Maxbo_Facebook_Harmoni.png';
+import Maxbo_Varmepumpe_Nettavis from '../assets/Maxbo_Varmepumpe_Nettavis.png';
+import Maxbo_Varmepumpe_Meta from '../assets/Maxbo_Varmepumpe_Meta';
 
 
 
@@ -115,7 +117,7 @@ const Projects = [
       'Jeg har brukt Figma, og fulgt den grafiske håndboken som Maxbo har tilsendt meg for å sikre at jeg ikke lager noe som passer inn med merkevaren til Maxbo.'
     ],
     images: [
-      Maxbo_Facebook_Harmoni, Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook,
+      Maxbo_Facebook_Harmoni, Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook, Maxbo_Varmepumpe_Meta, Maxbo_Varmepumpe_Nettavis
     ],
     tech: ['Annonser', 'Kampanjemateriell'],
     highlights: [
