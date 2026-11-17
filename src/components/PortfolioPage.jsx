@@ -265,12 +265,17 @@ export default function PortfolioPage() {
               project.longDescription
             )
               ? project.longDescription.map(
-                  (paragraph, index) =>
-                    typeof paragraph === 'string' ? (
-                      <p key={index}>{paragraph}</p>
-                    ) : (
-                      <h3 key={index}>{paragraph.heading}</h3>
-                    )
+                  (paragraph, index) => {
+                    if (typeof paragraph === 'string') {
+                      return <p key={index}>{paragraph}</p>;
+                    }
+
+                    if (paragraph.subheading) {
+                      return <h4 key={index}>{paragraph.subheading}</h4>;
+                    }
+
+                    return <h3 key={index}>{paragraph.heading}</h3>;
+                  }
                 )
               : (
                 <p>
