@@ -102,8 +102,8 @@ const Projects = [
     { label: 'Bacheloroppgave', path: '/pdf/Bachelor.pdf' }
   ],
     links: {
-      app: 'https://play.google.com/store/apps/details?id=no.bcat.decisiontree',
-      app: 'https://apps.apple.com/us/app/bcat-assessment-tool/id6812442984',
+      googlePlay: 'https://play.google.com/store/apps/details?id=no.bcat.decisiontree',
+      appStore: 'https://apps.apple.com/us/app/bcat-assessment-tool/id6812442984',
     }
   },
 

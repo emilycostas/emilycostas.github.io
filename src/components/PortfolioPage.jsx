@@ -107,7 +107,8 @@ export default function PortfolioPage() {
 
   const hasLinks =
     project.links?.website ||
-    project.links?.app ||
+    project.links?.googlePlay ||
+    project.links?.appStore ||
     project.links?.github ||
     project.links?.figma;
 
@@ -170,10 +171,10 @@ export default function PortfolioPage() {
                 </a>
               )}
 
-              {project.links?.app && (
+              {project.links?.googlePlay && (
                 <a
                   className="link-btn"
-                  href={project.links.app}
+                  href={project.links.googlePlay}
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -181,10 +182,10 @@ export default function PortfolioPage() {
                 </a>
               )}
 
-              {project.links?.app && (
+              {project.links?.appStore && (
                 <a
                   className="link-btn"
-                  href={project.links.app}
+                  href={project.links.appStore}
                   target="_blank"
                   rel="noreferrer"
                 >
