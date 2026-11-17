@@ -177,7 +177,18 @@ export default function PortfolioPage() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Se appen
+                  Se appen på Google Play
+                </a>
+              )}
+
+              {project.links?.app && (
+                <a
+                  className="link-btn"
+                  href={project.links.app}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Se appen på App Store
                 </a>
               )}
 

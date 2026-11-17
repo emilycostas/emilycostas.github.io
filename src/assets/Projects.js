@@ -68,7 +68,7 @@ import Maxbo_Facebook from '../assets/Maxbo_Facebook.png';
 import Maxbo_Nygårdskrysset_logo from '../assets/Maxbo_Nygårdskrysset_logo.png';
 import Maxbo_Facebook_Harmoni from '../assets/Maxbo_Facebook_Harmoni.png';
 import Maxbo_Varmepumpe_Nettavis from '../assets/Maxbo_Varmepumpe_Nettavis.png';
-import Maxbo_Varmepumpe_Meta from '../assets/Maxbo_Varmepumpe_Meta';
+import Maxbo_Varmepumpe_Meta from '../assets/Maxbo_Varmepumpe_Meta.png';
 
 
 
@@ -103,6 +103,7 @@ const Projects = [
   ],
     links: {
       app: 'https://play.google.com/store/apps/details?id=no.bcat.decisiontree',
+      app: 'https://apps.apple.com/us/app/bcat-assessment-tool/id6812442984',
     }
   },
 
