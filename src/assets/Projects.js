@@ -115,7 +115,7 @@ const Projects = [
       'Jeg har brukt Figma, og fulgt den grafiske håndboken som Maxbo har tilsendt meg for å sikre at jeg ikke lager noe som passer inn med merkevaren til Maxbo.'
     ],
     images: [
-      Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook, Maxbo_Facebook_Harmoni
+      Maxbo_Facebook_Harmoni, Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook,
     ],
     tech: ['Annonser', 'Kampanjemateriell'],
     highlights: [
