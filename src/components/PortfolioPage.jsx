@@ -265,11 +265,12 @@ export default function PortfolioPage() {
               project.longDescription
             )
               ? project.longDescription.map(
-                  (paragraph, index) => (
-                    <p key={index}>
-                      {paragraph}
-                    </p>
-                  )
+                  (paragraph, index) =>
+                    typeof paragraph === 'string' ? (
+                      <p key={index}>{paragraph}</p>
+                    ) : (
+                      <h3 key={index}>{paragraph.heading}</h3>
+                    )
                 )
               : (
                 <p>
