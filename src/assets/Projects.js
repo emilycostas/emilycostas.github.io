@@ -75,7 +75,7 @@ import Maxbo_Varmepumpe_Meta from '../assets/Maxbo_Varmepumpe_Meta.png';
 const Projects = [
   {
     id: '1',
-    title: 'BCAT - Body Composition Assessment Tool',
+    title: 'Bacheloroppgave: BCAT - Body Composition Assessment Tool',
     description: 'Bachelorprosjekt. Logo, wireframes, prototype, React-applikasjon',
     image: BCAT,
 
