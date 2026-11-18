@@ -127,8 +127,14 @@ const Projects = [
     image: Maxbo_Nygårdskrysset_logo,
 
     longDescription: [
-      'For Maxbo har jeg laget innhold for Facebook og Instagram som følger Maxbo sin grafiske profil.',
-      'Jeg har brukt Figma, og fulgt den grafiske håndboken som Maxbo har tilsendt meg for å sikre at jeg ikke lager noe som passer inn med merkevaren til Maxbo.'
+      { heading: 'Oppdrag'},
+      'For Maxbo Nygårdskrysset har jeg ved flere anledninger utformeet annonser og kampanjemateriell. Leveransene omfatter flyers, plakater, annonser til Facebook, samt avisannonser.',
+      { heading: 'Designprosessen'},
+      'Arbeidet tar utgangspunkt i Maxbos visuelle profilhåndbok og innholdet i det enkelte oppdraget. Jeg bruker Figma til å sette sammen materiell som viderefører merkevarens grafiske uttrykk, samtidig som budskapet tilpasses formatet det skal vises i.',
+      'En sentral del av arbeidet er å prioritere informasjon og skape et tydelig visuelt hierarki mellom kampanjebudskap, produktinformasjon og pris. De ulike formatene gir forskjellige rammer for plass og lesbarhet, og krever derfor tilpasninger i oppsettet.',
+      'Jeg har hatt fokus på å bevare et gjenkjennelig uttrykk gjennomgående i alle annonsene, og med gjentatte oppdrag har jeg fått erfaring med å bruke den samme visuelle profilen på ulike kampanjer og leveranser for butikken.',
+      { heading: 'Hva jeg lærte'},
+      'Oppdragene har gitt meg erfaring med å utforme materiell innenfor en etablert visuell identitet. Jeg har blitt mer bevistt på hvordan plassering, størrelse og prioritering av informasjon påvirker hva mottakeren legger merke til først, og hvordan et budskap må tilpasses ulike annonseformater.',
     ],
     images: [
       Maxbo_Facebook_Harmoni, Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook, Maxbo_Varmepumpe_Meta, Maxbo_Varmepumpe_Nettavis
