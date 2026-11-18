@@ -81,7 +81,7 @@ const Projects = [
 
     // Prosjektside-innhold:
     longDescription: [
-      { heading: 'Om prosjektet' },
+      { heading: 'Bakgrunnen til prosjektet' },
       'I bachelorprosjektet BCAT jobbet vi med å oversette retningslinjer for vurdering av kroppsammensetning hos idrettsutøvere til et digitalt beslutningstre. Designutfordringen var å gjøre komplekst faglig innhold forståelig og lett å navigere, samtidig som viktige vurderinger og forbehold ble ivaretatt.',
       'I idretten er det stort fokus på prestasjonsoptimalisering, og vurdering av kroppssammensetning inngår ofte som en del av dette arbeidet. Slike vurderinger kan føre til økt kroppspress og risiko for psykiske belastninger hos utøvere. For å møte denne utfordringen har vår oppdragsgiver Therese Fostervold Mathisen og Lindsay S. Macnaughton, på oppdrag fra Den internasjonale olympiske komité (IOC), utarbeidet åtte retningslinjer for forsvarlig gjennomføring av kroppsmålinger. Dette med et mål om å redusere helserisiko og fremme en tryggere tilnærming.',
       'Vårt prosjekt har hatt som mål å overføre disse retningslinjene til et digitalt beslutningstre, og undersøke hvordan man kan designe dette på en effektiv måte til en mobilapplikasjon. Verktøyet skal bidra til at fagpersonell på en enkel og brukervennlig måte kan vurdere hvorvidt det er hensiktsmessig å gjennomføre kroppsmålinger på utøvere, i tråd med disse retningslinjene.',
@@ -141,7 +141,7 @@ const Projects = [
     ],
     tech: ['Annonser', 'Kampanjemateriell'],
     highlights: [
-      'Facebook annonser',
+      'Annonser',
       'Plakater til butikk',
       'Flyers'
     ],
@@ -159,8 +159,19 @@ const Projects = [
     image: prototypeT2,
 
     longDescription: [
-      'Dette prosjektet var en del av en eksamen i Interaction Design. Tamagolfi er en teller til Disc Golf og er ment til å henge fra belteloopen slik at den kan brukes mens man spiller. Poenget er at man ikke skal trenge å telle hvor mange kast man har igjen selv, men heller kan plotte det inn i enheten for å gjøre det lettere for spillere. Tanken er at den skal være vanntett, og vi ønsket en tangible device slik at den er lettere å bruke med hansker og at den lettere kan gjøres vanntett og tåle ruskete vær.',
-      'Vi utviklet low-fi og high-fi prototyper både digitalt, i Figma og fysisk. High-fi prototypen i hvitt ble vår endelige modell. Her 3D-printetet vi skallet og klipsen, kodet, og sveiset sammen slik at det ble en fungerende enhet.'
+      { heading: 'Oppgaven og utgangspunktet'},
+      'Tamagolfi ble utviklet som et studentprosjekt i Interaction Design. Oppgaven innebar å undersøke eksisterende løsninger og faglige kilder, og bruke dette som grunnlag for å utvikle og utforske et eget konsept.',
+      'I kartleggingen vår fant vi hovedsakelig appbaserte løsninger for poengregistrering i discgolf. Vi ønsket derfor å undersøke et fysisk alternativ: en egen poengteller som kunne bæres underveis i spillet.',
+      { heading: 'Designutfordringen'},
+      'Discgolf spilles utendørs i varierende vær og terreng. Vi ønsket å utforske hvordan en fysisk poengteller kunne utformes for denne brukssituasjonen, med vekt  på brukbarhet og hvordan den kunne festes til kroppen. Robusthet og værbestandighet var målet for et eventuelt ferdig produkt. Innenfor prosjektets rammer utviklet vi en prorotype for å utforske konseptet og samspillet med brukeren.',
+      { heading: 'Prototyper og testing'},
+      'Vi utviklet først enkle fysiske og digitale prototyper. De fysiske variantene gjorde det mulig å undersøke ulike måter å bære og feste telleren på før vi gikk videre med elektronikk og et mer detaljert design. De første fysiske prototypene ble laget med husholdningsartikler som smykke-, pastill-, og snusbokser med knapper laget av hobby"øyne", og maling, samt ulike fester på baksiden (en med beltekrok, en som et halssmykke og en med carabinerfeste).',
+      'I den første brukertesten prøvde deltakerne disse prototypene mens de spilte discgolf. Testen lot oss utforske hvordan plassering og feste fungerte i selve spillsituasjonen.',
+      { heading: 'Visuell utforming og videreutvikling'},
+      'Vi ønsket at telleren skulle være lett å få øye på dersom den ble mistet i banen. Derfor valgte vi oransj som tiltenkt farge. Den siste prototypen ble likevel produsert i hvitt fordi vi ikke hadde tilstrekkelig med oransje materiale tilgjengelig til 3D-printingen.',
+      'Vi utviklet prototypen med carabinerfeste videre med 3D-printing, elektronikk og skjerm som var fullt funksjonell og kunne brukes til å registerere poeng. Denne prototypen ble også testet i discgolfspill.',
+      { heading: 'Resultat og refleksjon'},
+      'Prosjektet resulterte i en fungerende prototype og en akademisk artikkel som dokumerterte arbeidet og det faglige grunnlaget. Arbeidet gav oss erfaring med å kommbinere digital og fysisk prototyping og undersøke et produkt i situasjonen det skulle brukes i. Den begrensede tidsrammen og testingen ga et grunnlag for videre utforsking, men var ikke tilstrekkelig til å dokumentere hvordan et ferdig produkt ville fungere over tid eller i ulike værforhold.',
     ],
     images: [
       prototypeT2, prototypeT1, digital_prototype_cropped, LowFi_Figma, prototyper_physical3
