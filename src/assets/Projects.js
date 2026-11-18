@@ -179,7 +179,7 @@ const Projects = [
     tech: ['Fysiske prototyper', 'Figma', '3D-printing'],
     highlights: [
       'Høst 2025',
-      'Lagde low-fi og high-fi prototyper i Figma, fysisk og digitalt',
+      'Low-fi og high-fi prototyper i Figma, fysisk og digitalt',
       '3D-printing'
     ],
     pdfs: [
@@ -198,8 +198,15 @@ const Projects = [
     image: ArtemisLogo,
 
     longDescription: [
-      'I dette prosjektet utviklet jeg logo og wordpress-nettside basert på ønsker fra eieren. Det var ønskelig å få frem at eieren driver med både øreakupunktur og soneterapi på føtter, og ønsket derfor at dette skulle visualiseres i logoen.',
-      'Eieren ønsket en enkel og ryddig nettside og ønsket at lilla skulle være en sentral farge på nettsiden og i logoen.'
+      'For Artemis Soneterapi & Øreakupunktur utviklet jeg en nettside i WordPress og en logo i Canva. Målet var å presentere virksomheten, behandlingstilbudet og prisene på en oversiktlig måte.',
+      'Nettsiden er ikke lenger aktiv ettersom eieren ikke praktiserer for tiden. Bildene viser noe av løsningen slik den ble utformet.',
+      { heading: 'Utforming og innhold'},
+      'Nettsiden inneholdt informasjon om behandlingene, priser og bilder. Jeg jobbet med å strukturere innholdet slik at besøkende kunne orientere seg i tilbudet og finne praktisk informasjon.',
+      'Løsningen ble tilpasset både mobil og PC, med fokus på hvordan tekst, bilder og navigasjon fungerte på ulike skjermstørrelser.',
+      { heading: 'Visuell identitet'},
+      'Logoen ble utviklet med utgangspunkt i eierens ønsker. Hun ønsket å synliggjøre både soneterapi på føtter og øreakupunktur, og disse elementene ble derfor en del av motivet. Lilla var også et ønsket element i det visuelle uttrykket på nettsiden og i logoen.',
+      { heading: 'Hva jeg lærte'},
+      'Dette var mitt første prosjekt i WordPress. Gjennom arbeidet fikk jeg erfaring med å bygge opp en nettside i et publiseringsverktøy og tilpasse innhold og utforming til ulike skjermstørrelser. Prosjektet ga meg også erfaring med å omsette eiers ønsker til en konkret nettside og visuell identitet.',
     ],
     images: [
       ArtemisLogo, skjermbilde_nettside, skjermbilde_artemis2
@@ -226,7 +233,13 @@ const Projects = [
     image: LOMA,
 
     longDescription: [
-      'Dette prosjektet var en prosjekteksamen i Prosjektledelse hvor vi skulle utvikle en appidé. Vår idé var en lokal mat-app kalt LOMA, rettet mot selgere, næringskunder og privatkunder. I prosjektet lagde vi value proposition, Gantt, PERT, Scope og kravspesifikasjon. Vi utviklet også en logo og idéer til hvordan sidene i applikasjonen kunne visualiseres. Prosjektet ble levert som en mappeeksamen som et "Investor Proposal", og avsluttet med en munlig eksamen hvor sensorene var "Investorer" hvor de skulle avgjøre om de ville investere i app-idéen. Sensorene mente vi hadde lagt frem en solid idé og gjennomtenkt prosjekt og dette resulterte i totalkarakter A.'
+    'LOMA var en prosjekteksamen i prosjektledelse, der vi skulle utvikle en appidé og konsept, og planlegge hvordan det kunne gjennomføres. Arbeidet omfattet både konseptutvikling, visuell presentasjon, en digital prototype og planlegging av tid. Jeg var gruppeleder og hadde også ansvar for å utvikle logo og annonse for konseptet. Navnet og prototypen i Figma utviklet vi sammen i gruppen, samt felles arbeid med prosjektplanlegging og økonomi.',
+    { heading: 'Visuell identitet og prototype'},
+    'Gjennom logoen og annonsen jobbet jeg med å gi konseptet en visuell identitet og presentere ideen for potensielle kunder, og investorer. I felleskap utviklet vi en prototype i Figma som konkretiserte hvordan appen kunne se ut og fungere. Prototypen var en del av presentasjonen av konseptet og gjorde det mulig å vise ideen utover en skriftlig beskrivelse.',
+    { heading: 'Planlegging og gjennomførbarhet'},
+    'En sentral del av oppgaven var å undersøke hva somm skulle til for å gjennommføre prosjektet. Vi utarbeidet en prosjekttidslinje, brukte Gantt-diagram og PERT til å planlegge aktiviteter, tidsbruk og avhengigheter. Dette arbeidet knyttet konseptet til en konkret plan for gjennomføring.',
+    { heading: 'Resultat og læring'},
+    'Gruppen fikk karakteren A på eksamen. Sensor og foreleser ga også veldig positive tilbakemeldinger på konseptets kommersielle potensial. Prosjektet ga meg erfaring med å se design som en del av en større helhet, der visuell kommunikasjon og digital løsning må henge sammen med faktisk gjennomføringsmuligheter. Jeg fikk også erfaring med å ha lederansvar og ansvar for egne leveranser, samtidig som konseptet og prototypen ble utviklet i samarbeid med andre.',
     ],
     images: [
       LOMA, LOMA_app, annonser, Personas_næringskunde, Personas_selger, Personas_privatkunde, Prosjektet_tidlinje
@@ -252,7 +265,13 @@ const Projects = [
     image: Cosmic,
 
     longDescription: [
-      'Dette prosjektet var en prosjekteksamen i Grafisk Design. Dette prosjektet innebar å bli kjent med Adobe sine programmer gjennom å utvikle fargeprofil, posters, logo, kart, brosjyre og grafisk profilhåndbok mm. for en egenlaget festival.'
+      'Cosmic Soul & Funk Festival var en prosjekteksamen i grafisk design. I prosjektet utviklet jeg en visuell identitet for et festivalkonsept, med fargeprofil, logo, grafiske elementer, appikon og annonser.',
+      { heading: 'Designprosessen'},
+      'Arbeidet omfattet både utvikling av ulike grafiske elementer og hvordan de kunne brukes sammen. Jeg jobbet med å skape en visuell sammenheng mellom logo, farger og grafiske elementer, og videreførte dette utrykket i ulike formater.',
+      'Gjennom annonser og appikon utforsket jeg hvordan identiteten kunne tilpasses flater med forskjellig størrelse og plass til informasjon, samtidig som festivalen skulle være gjenkjennelig.',
+      { heading: 'Hva jeg lærte'},
+      'Prosjektet var en innføring i flere av Adobe-programmene og ga meg praktisk erfaring med ulike verktøy for grafisk design. Jeg fikk også erfaring med å utvikle en visuell identitet som kunne fungere på tvers av flere leveranser. Arbeidet gjorde meg mer bevisst på hvordan farger, former og komposisjon virker sammen og bidrar til et helhetlig uttrykk.',
+      'Når jeg ser tilbake på prosjektet ser jeg noen valg jeg ville gjort annerledes med kunnskapen jeg har idag. Jeg ville jobbet mer systematisk med kontraster mellom tekst og bakgrunni annonsene, slik at budskapet ble lettere å lese og med fokus på universell utforming. Prosjektet viser hvor jeg startet, og hvordan forståelsen min for tilgjengelighet og visuell kommunikasjon senere har utviklet seg.',
     ],
     images: [
       Cosmic, Cosmic_3, Annonse1, Annonse2, Mockups1, Mockups2
@@ -282,7 +301,15 @@ const Projects = [
     image: Maanesten,
 
     longDescription: [
-      'Dette prosjektet var prosjekteksamen i Digital Markedsføring hvor vi lagde landingssider og ads for ulike plattformer som Instagram, Facebook, Vg, epost og YouTube. Vi valgte å lage en kampanje til Valentines og Morsdag og valgte da å bruke gudinnen Aphrodite som inspirasjon for farger, font mm., og dette har Maanesten selv brukt i egen kampanje (uten inspirasjon fra oss, men det bekreftet at det samsvarte med merkevareidentiteten til Maanesten). Vi brukte AI til å lage bakgrunnsbildet til landingssiden.'
+      'Maanesten var en prosjekteksamen i digital markedsføring, der vi utviklet et kampanjeforslag for smykkemerket. Arbeidet omfattet landingssider og annonsemateriell til ulike kanaler, blant annet Instagram, Facebook, VG, e-post og YouTube. Prosjektet var et studentarbeid og ble ikke utført på oppdrag fra Maanesten.',
+      { heading: 'Kampanjekonsept og visuell retning'},
+      'Vi valgte å utvikle en kampanje knyttet til valentinsdagen og morsdagen. Gudinnen Afrodite ble utgangspunktet for den visuelle retningen og inspirerte valg av farger, typografi og grafisk uttrykk.',
+      'Vi ønsket å gi kampanjen en egen identitet som samtidig passet inn i Maanestens merkevare. Maanesten har også brukt Afrodite som inspirasjon i en egen kampanje i senere tid, uanhengig av vårt prosjekt.',
+      'Landingssidene ga mer plass til å presentere kampanjen enn annonsene. Jeg jobbet med sammenhengen mellom budskapet i annonsene og innholdet på landingssidene. Vi brukte KI til å generere bakgrunnsbildet til landingssiden som en del av kampanjens visuelle uttrykk.',
+      { heading: 'Hva jeg lærte'},
+      'Prosjektet ga meg erfaring med å utvikle et kampanjekonsept og omsette det til flere digitale flater. Jeg fikk øvelse i å tilpasse budskap og visuell utforming til ulike formater, samtidig som kampanjen skulle oppleves som en helhet.',
+      'Arbeidet gjorde meg også mer bevisst på sammenhengen mellom en annonse og siden det leder videre til.',
+
     ],
     images: [
       Maanesten, MaanestenInstagram, digital_adshel, epost_ad, facebook_ad_bilde, google_pmax_ad, meta_ad_1, side2_ad, spanchat_addd
@@ -307,7 +334,14 @@ const Projects = [
     image: NCB,
 
     longDescription: [
-      'Til Nygaardsgata Café & Bistro som lå i Fredrikstad sin gågate lagde jeg logo, menyer, kaffekort, delte innhold til sosiale medier, mm. NCB ble lagt ned i 2022.'
+      { heading: 'Bakgrunn og min rolle'},
+      'Ved Nygaardsgata Café & Bistro i Fredrikstad jobbet jeg både i den daglige kafédriften og med grafisk utforming. Jeg utviklet logo og materiell som ble brukt i kafeen, blant annet menyer, kaffekort og emballasje.',
+      'Kafeen ble lagt ned i 2022. Bildene viser noe av arbeidet fra perioden kafeen var i drift.',
+      { heading: 'Visuell identitet i bruk'},
+      'Logoen ble brukt på vinduer, kaffekort og poser, mm. Arbeidet ga meg erfaring med å utforme en visuell identitet som skulle fungere i ulike størrelser, materialer og sammenhenger. Selve logoen ble laget som en midlertidig logo før åpning (som en placeholder på Facebook og Instagram profilen), men eieren av kafeen likte denne så godt så de ønsket ikke noen ny. Jeg utformet også en meny og malte fysiske skilt til kafeen. Leveransene var dermed både praktisk informasjon til kundene og i det visuelle uttrykket i lokalet.',
+      'Gjennom arbeidet i kafeen kjente jeg stedet og den daglige driften personlig. Det ga meg en nærhet til sammenhengen designet skulle brukes i, og muligheten til å se materialet som en del av kaféopplevelsen.',
+      { heading: 'Hva jeg lærte'},
+      'Arbeider ga meg praktisk erfaring med å følge grafiske leveranser fra utforming til bruk. Jeg fikk se hvordan den samme identiteten fungerte på tvers av menyer, emballasje, vinduer og andre fysiske flater. Kominasjonen av kaféarbeid og grafisk utforming ga meg også større forståelse for at design skal fungere i en konkret hverdag, både for kundene og for dem som jobber i virksomheten.',
     ],
     images: [
       NCB, NygaardsgataBolle, NygaardsgataKaffekort, NygaardsgataKaffekort2, NygaardsgataKaffekort3, NygaardsgataMeny, NygaardsgataUte, NygaardsgataUte2
@@ -332,7 +366,13 @@ const Projects = [
     image: Karins,
 
     longDescription: [
-      'For Karins Hjemmebakst & Catering har jeg laget logoer, skrevet skilt, menyer til ulike eventer og til kakebua på Skjærhalden. Dette er tidligere eier av Nygaardsgata Café & Bistro.'
+      { heading: 'Bakgrunn og min rolle'},
+      'Hos Karins Hjemmebakst & Catering har jeg jobbet både som baker og med grafisk utforming gjennom hele perioden bakeriet har eksistert. Bakeriet har samme eiere som Nygaardsgata Café & Bistro, hvor jeg også kombinerte arbeid i driften med grafiske oppgaver.',
+      'Arbeidet mitt har omfattet tidligere logo, nye logoforslag, digitalisering av dagens logo og utforming av menyer, flyers og skilt.',
+      'Dagens logo tar utgangspunkt i et håndmalt skilt som en annen person har malt. Jeg gjenskapte motivet digitalt i Figma (logoen med grønn bakgrunn), slik at det kunne brukes videre i virksomhetens grafiske matriell. Min rolle var å overføre det eksisterende uttrykket til en digital versjon og bruke dette på ulike flater.',
+      { heading: 'Hva jeg lærte'},
+      'Arbeidet har gitt meg erfaring med både å utvikle egne logo og logoforslag. Digitaliseringen av det håndmalte skiltet ga meg øvelse i å bevare særpreget i et eksisterende motiv og gjøre det tilgjengelig for videre bruk.',
+      'Jeg har også fått erfaring med å følge en virksomhet over tid og tilpasse grafisk materiell etter hvert som behovene endrer seg.',
     ],
     images: [
       Karins, KarinsBua, KarinsMeny, KarinsSkilt, KarinsSkilt2, karinsBuaSkilt, Karins_flyer_vscode
@@ -357,7 +397,11 @@ const Projects = [
     image: CQ,
 
     longDescription: [
-      'Dette prosjektet var en prosjekteksamen i UI Designprosjekt, hvor vi valgte å utvikle et brettspill for nybegynnere og viderekommende innen programmeringsspråk. I prosjektet undersøkte vi læringsmetoder, ønsker fra brukere og litteratur som omhandlet spillmetodikk og designvalg. Vi lagde også en fysisk prototype av spillet, både low-fi og high-fi spillbrett i treverk. Vi 3D-printet spillbrikker og lagde fysisk spillkort.'
+      'CodeQuest var prosjekteksamen i UI Designprosjekt, der vi utviklet et fysisk brettspill. Jeg hadde ansvar for den grafiske utformingen av logoen, spillebrettet og kortene som jeg laget i Adobe InDesign.',
+      'Arbeidet omfattet både spillets visuelle identitet, utformingen av de enkelte spillkomponentene, og innhold til spørsmålskortene. Jeg jobbet med hvordan logo, farger og typografi kunne skape et sammenhendende uttrykk på tvers av brettet og kortene, samt at det gjenspeilet at brettspillet handlet om programmering.',
+      'Det fysiske formatet var en viktig ramme for utformingen da det var viktig at informasjonen skulle få plass på spillkortene, samtidig som tekst skulle være tydelige i størrelsen de skulle brukes i.',
+      { heading: 'Hva jeg lærte'},
+      'Prosjektet ga meg erfaring med å utforme et fysisk produkt med flere deler som skulle fungere sammen. Jeg fikk øvelse i å kombinere visuell identitet med presentasjon av informasjon. Vi brukte også laserkutter til å lage den siste versjonen av brettet, samt 3D-printer for å printe små figurer til spillbrikker.',
     ],
     images: [
       CQ, CodeQuestBrett, CodeQuestKort
