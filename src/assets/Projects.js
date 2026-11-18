@@ -274,7 +274,7 @@ const Projects = [
       'Når jeg ser tilbake på prosjektet ser jeg noen valg jeg ville gjort annerledes med kunnskapen jeg har idag. Jeg ville jobbet mer systematisk med kontraster mellom tekst og bakgrunni annonsene, slik at budskapet ble lettere å lese og med fokus på universell utforming. Prosjektet viser hvor jeg startet, og hvordan forståelsen min for tilgjengelighet og visuell kommunikasjon senere har utviklet seg.',
     ],
     images: [
-      Cosmic, Cosmic_3, Annonse1, Annonse2, Mockups1, Mockups2, Cosmic_2, Festivalbånd, Annonse3, Annonse4
+      Cosmic, Cosmic_3, Annonse1, Annonse2, Mockups1, Mockups2, Cosmic_2
     ],
     tech: ['Grafisk design'],
     highlights: [
