@@ -69,6 +69,8 @@ import Maxbo_Nygårdskrysset_logo from '../assets/Maxbo_Nygårdskrysset_logo.png
 import Maxbo_Facebook_Harmoni from '../assets/Maxbo_Facebook_Harmoni.png';
 import Maxbo_Varmepumpe_Nettavis from '../assets/Maxbo_Varmepumpe_Nettavis.png';
 import Maxbo_Varmepumpe_Meta from '../assets/Maxbo_Varmepumpe_Meta.png';
+import Maxbo_Vintermesse_A3 from '../assets/Maxbo_Vintermesse_A3.png';
+import Maxbo_Vintermesse_facebookad from '../assets/Maxbo_Vintermesse_facebookad.png';
 
 
 
@@ -137,7 +139,7 @@ const Projects = [
       'Oppdragene har gitt meg erfaring med å utforme materiell innenfor en etablert visuell identitet. Jeg har blitt mer bevistt på hvordan plassering, størrelse og prioritering av informasjon påvirker hva mottakeren legger merke til først, og hvordan et budskap må tilpasses ulike annonseformater.',
     ],
     images: [
-      Maxbo_Facebook_Harmoni, Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook, Maxbo_Varmepumpe_Meta, Maxbo_Varmepumpe_Nettavis
+      Maxbo_Facebook_Harmoni, Maxbo_Annonse, Maxbo_Annonse_Lekestativ_Facebook, Maxbo_flyer, Maxbo_Plakat, Maxbo_Facebook, Maxbo_Varmepumpe_Meta, Maxbo_Varmepumpe_Nettavis, Maxbo_Vintermesse_facebookad, Maxbo_Vintermesse_A3
     ],
     tech: ['Annonser', 'Kampanjemateriell'],
     highlights: [
